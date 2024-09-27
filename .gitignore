@@ -1,0 +1,58 @@
+# OS X
+.DS_Store
+
+# Build folders
+mobileApp/android/app/build/
+mobileApp_backend/build/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android/IntelliJ
+mobileApp/.idea/
+mobileApp/.gradle/
+mobileApp/local.properties
+mobileApp/*.iml
+mobileApp/*.hprof
+mobileApp/cxx/
+mobileApp/*.keystore
+mobileApp/**/fastlane/report.xml
+mobileApp/**/fastlane/screenshots
+mobileApp/**/fastlane/test_output
+
+# Temporary files created by Metro (React Native)
+.mobilehealth-check*
+coverage/
+
+# Ruby / CocoaPods
+mobileApp/**/Pods/
+mobileApp_backend/**/Pods/
+mobileApp_backend/vendor/bundle/
+
+# Miscellaneous
+*.log
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+*.hmap
+*.ipa
+*.xcuserstate
+*.jsbundle
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Environment variables
+mobileApp/.env
+mobileApp_backend/.env
+
+build/

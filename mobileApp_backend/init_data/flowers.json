@@ -1,0 +1,366 @@
+[
+  {
+    "id": "2000",
+    "shopId": "106",
+    "name": "Cvjetni miks sa vazom",
+    "price": 40,
+    "image": "shop1",
+    "category": "Buketi",
+    "description": "Buket sačinjen od raznobojnih ruža, alstromerija, karanfila i zelenila u dekorativnoj vazi."
+  },
+  {
+    "id": "2001",
+    "shopId": "106",
+    "name": "Kasno ljeto",
+    "price": 60,
+    "image": "shop2",
+    "category": "Buketi",
+    "description": "Buket sačinjen od najkvalitetnijih Ekvador ruža i alstromerija u kombinaciji sa hiperikumom."
+  },
+  {
+    "id": "2002",
+    "shopId": "106",
+    "name": "Šareni miks",
+    "price": 80,
+    "image": "shop3",
+    "category": "Buketi",
+    "description": "Buket sačinjen od miks Ekvador ruža, ljiljana, karanfila, lizijantusa i viburnuma."
+  },
+  {
+    "id": "2003",
+    "shopId": "106",
+    "name": "Pastelni detalji",
+    "price": 50,
+    "image": "shop4",
+    "category": "Buketi",
+    "description": "Harmoničan spoj lepote i gracioznosti u kojoj se nalaze Ruže i Orhideje."
+  },
+  {
+    "id": "2004",
+    "shopId": "106",
+    "name": "Engleski bašta buket",
+    "price": 110.0,
+    "image": "shop5",
+    "category": "Buketi",
+    "description": "Engleski bašta buket sačinjen od 11 hrizantema u kombinaciji sa dekorativnim pakovanjem."
+  },
+  {
+    "id": "2005",
+    "shopId": "106",
+    "name": "Azijski ljiljani",
+    "price": 150.0,
+    "image": "shop6",
+    "category": "Buketi",
+    "description": "Ženstveni aranžman blijedo ružičastih azijskih ljiljana uz vruće ružičaste karanfile."
+  },
+  {
+    "id": "2006",
+    "shopId": "106",
+    "name": "Ljetnja radost",
+    "price": 120.0,
+    "image": "shop7",
+    "category": "Buketi",
+    "description": "Prelijepa ljetnja kolekcija zadivljujućih suncokreta."
+  },
+  {
+    "id": "2007",
+    "shopId": "106",
+    "name": "16 ruža, 5 orhideja",
+    "price": 70.0,
+    "image": "shop8",
+    "category": "Dekoracije",
+    "description": "Dekorativna kutija sačinjena od 16 crvenih Ekvador ruža i 5 orhideja u kombinaciji sa zelenilom."
+  },
+  {
+    "id": "2008",
+    "shopId": "106",
+    "name": "Srce pastelnih ruža",
+    "price": 100.0,
+    "image": "shop9",
+    "category": "Dekoracije",
+    "description": "Dekorativni plišani boks u obliku srca sačinjen od 25 pastelnih ekvador ruza sa zelenilom."
+  },
+  {
+    "id": "2009",
+    "shopId": "106",
+    "name": "10 crvenih ruža, 5 orhideja",
+    "price": 170.0,
+    "image": "shop10",
+    "category": "Dekoracije",
+    "description": "Dekorativna kutija sačinjena od 10 crvenih Ekvador ruža i 5 orhideja u kombinaciji sa zelenilom."
+  },
+  {
+    "id": "2010",
+    "shopId": "106",
+    "name": "17 ruža",
+    "price": 80.0,
+    "image": "shop11",
+    "category": "Dekoracije",
+    "description": "Dekorativna kutija sačinjena od 17 crvenih Ekvador ruža u kombinaciji sa zelenilom."
+  },
+  {
+    "id": "2011",
+    "shopId": "106",
+    "name": "Buket ruža i Greenbel",
+    "price": 50.0,
+    "image": "shop12",
+    "category": "Dekoracije",
+    "description": "Buket sačinjen od 5 pastelnih ruza u kombinaciji sa greenbelom ii dekorativnom pakovanjem."
+  },
+  {
+    "id": "2012",
+    "shopId": "106",
+    "name": "Aloja U Berakna Vazi",
+    "price": 40.0,
+    "image": "shop13",
+    "category": "Saksije",
+    "description": "Aloja aranzirana u Berakna vazi u kombinaciji sa mahovinom."
+  },
+  {
+    "id": "2013",
+    "shopId": "106",
+    "name": "Spatifilijum",
+    "price": 60.0,
+    "image": "shop14",
+    "category": "Saksije",
+    "description": "Spatifilium spada u red popularnih dekorativnih biljaka koji oplemenjuju i čine prostor ljepšim."
+  },
+  {
+    "id": "2014",
+    "shopId": "106",
+    "name": "Orhideja miks",
+    "price": 50.0,
+    "image": "shop15",
+    "category": "Buketi",
+    "description": "Orhideja svojim lijepim i raskošnim izgledom opravdava titulu cvijeta ljubavi i plodnosti."
+  },
+  {
+    "id": "2015",
+    "shopId": "106",
+    "name": "Sanseverija u jelovini",
+    "price": 20,
+    "image": "shop16",
+    "category": "Saksije",
+    "description": "Sanseverija u kutiji od jelovine u kombinaciji sa mahovinom. Interesantna kombinacija koja prostor cini ljepsim."
+  },
+  {
+    "id": "2016",
+    "shopId": "106",
+    "name": "Crveno iznenadjenje",
+    "price": 55.0,
+    "image": "shop17",
+    "category": "Rođendani",
+    "description": "Dekorativna poklon kutija sačinjena od dva prosecca od 0.75ml , Ferrero Rochere, Bajadere i dvije čaše za pjenušavo vino ."
+  },
+  {
+    "id": "2017",
+    "shopId": "106",
+    "name": "Zamiokulkas i Schloss Biebrich rose",
+    "price": 55.0,
+    "image": "shop18",
+    "category": "Rođendani",
+    "description": "Dekorativna roza poklon kutija sačinjena od zamiokulkas biljke, Schloss Biebrich pjenušavog rose vina i Mozart čokolade."
+  },
+  {
+    "id": "2018",
+    "shopId": "100",
+    "name": "Ruže i Trešnjin cvijet",
+    "price": 35.0,
+    "image": "shop19",
+    "category": "Buketi",
+    "description": "Buket sčinjen od 7 ruža , trešnjinog cvijeta i dekorativnim pakovanjem"
+  },
+  {
+    "id": "2019",
+    "shopId": "100",
+    "name": "Ruže i hiperikum",
+    "price": 40.0,
+    "image": "shop20",
+    "category": "Buketi",
+    "description": "Buket sačinjen od 5 najkvalitetnijih crvenih ekvador ruža u kombinaciji sa hiperikumom, upakovan u dekorativnom pakovanju."
+  },
+  {
+    "id": "2020",
+    "shopId": "100",
+    "name": "Pastelni Buket Ruža",
+    "price": 40.0,
+    "image": "shop21",
+    "category": "Buketi",
+    "description": "Buket sačinjen od 7 najkvalitetnijih pastelnih ruza eukaliptusa i dekorativnog pakovanja."
+  },
+  {
+    "id": "2021",
+    "shopId": "100",
+    "name": "Zamiokulkas i Luča vino",
+    "price": 60.0,
+    "image": "shop22",
+    "category": "Rođendani",
+    "description": "Dekorativna roza poklon kutija sačinjena od zamiokulkas biljke, domaćeg bijelog vina Luča i Kraš bajadere od 300 g."
+  },
+  {
+    "id": "2024",
+    "shopId": "100",
+    "name": "Dracena Marginata",
+    "price": 30.0,
+    "image": "shop23",
+    "category": "Kućne biljke",
+    "description": "Dracena marginata je vrsta ukrasne biljke koja pripada širokom rodu (Dracaena) koja varira u veličini i boji lišća, kao i pokazuje različite vrste debla."
+  },
+  {
+    "id": "2025",
+    "shopId": "100",
+    "name": "Ehmeja",
+    "price": 15.0,
+    "image": "shop24",
+    "category": "Kućne biljke",
+    "description": "Ehmeja je prirodni epifit, odnosno biljka koja raste na drugim biljkama, na primer na kori drveća, naročito u svojim prirodnim staništima."
+  },
+  {
+    "id": "2026",
+    "shopId": "100",
+    "name": "Fikus – Elastika",
+    "price": 50.0,
+    "image": "shop25",
+    "category": "Kućne biljke",
+    "description": "Fikus je porijeklom iz tropskih krajeva, a botanički je srodan s običnom smokvom (Ficus carica)."
+  },
+  {
+    "id": "2027",
+    "shopId": "107",
+    "name": "Bijela bajka",
+    "price": 64.0,
+    "image": "shop26",
+    "category": "Buketi",
+    "description": "Bijeli ljiljani u kombinacii sa bijelim gerberima i zelenilom čine da ovaj buket izgleda kao iz bajke, bele bajke."
+  },
+  {
+    "id": "2028",
+    "shopId": "107",
+    "name": "Mix Box",
+    "price": 57.0,
+    "image": "shop27",
+    "category": "Buketi",
+    "description": "Ruže, lizijantusi i drugo sezonsko cveće i zelenilo u elegantnom box-u. Boja box-a može biti drugačija od crne, zavisno od dostupnosti prilikom poručivanja."
+  },
+  {
+    "id": "2029",
+    "shopId": "107",
+    "name": "Korpa ljubavi",
+    "price": 75.0,
+    "image": "shop28",
+    "category": "Buketi",
+    "description": ""
+  },
+  {
+    "id": "2030",
+    "shopId": "107",
+    "name": "Divne uspomene",
+    "price": 73.0,
+    "image": "shop29",
+    "category": "Vjenčanja"
+  },
+  {
+    "id": "2031",
+    "shopId": "107",
+    "name": "Srce Ferrero",
+    "price": 45.0,
+    "image": "shop30",
+    "category": "Rođendani"
+  },
+  {
+    "id": "2032",
+    "shopId": "107",
+    "name": "Peach Flavour",
+    "price": 49.0,
+    "image": "shop31",
+    "category": "Buketi"
+  },
+  {
+    "id": "2033",
+    "shopId": "107",
+    "name": "Aurora",
+    "price": 54.0,
+    "image": "shop32",
+    "category": "Vjenčanja"
+  },
+  {
+    "id": "2034",
+    "shopId": "107",
+    "name": "Tiger Orhideja",
+    "price": 54.0,
+    "image": "shop33",
+    "category": "Saksije"
+  },
+  {
+    "id": "2035",
+    "shopId": "107",
+    "name": "Dream World",
+    "price": 74.0,
+    "image": "shop34",
+    "category": "Buketi"
+  },
+  {
+    "id": "2036",
+    "shopId": "107",
+    "name": "Dressed in Pink",
+    "price": 70.0,
+    "image": "shop35",
+    "category": "Buketi"
+  },
+  {
+    "id": "2037",
+    "shopId": "107",
+    "name": "Florist Choice",
+    "price": 38.0,
+    "image": "shop36",
+    "category": "Buketi"
+  },
+  {
+    "id": "2038",
+    "shopId": "107",
+    "name": "Mala Pink Orhideja",
+    "price": 54.0,
+    "image": "shop37",
+    "category": "Kućne biljke"
+  },
+  {
+    "id": "2039",
+    "shopId": "102",
+    "name": "Anthurium Rosa",
+    "price": 49.0,
+    "image": "shop38",
+    "category": "Kućne biljke"
+  },
+  {
+    "id": "2040",
+    "shopId": "102",
+    "name": "Malo maslinovo drvo",
+    "price": 90.0,
+    "image": "shop39",
+    "category": "Kućne biljke"
+  },
+  {
+    "id": "2041",
+    "shopId": "102",
+    "name": "Red Anthurium",
+    "price": 30.0,
+    "image": "shop40",
+    "category": "Kućne biljke"
+  },
+  {
+    "id": "2042",
+    "shopId": "102",
+    "name": "Sansevieria",
+    "price": 43.0,
+    "image": "shop41",
+    "category": "Kućne biljke"
+  },
+  {
+    "id": "2043",
+    "shopId": "102",
+    "name": "Plava orhidjea",
+    "price": 20.0,
+    "image": "shop42",
+    "category": "Kućne biljke"
+  }
+]

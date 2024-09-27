@@ -1,0 +1,161 @@
+[
+  {
+    "id": "100",
+    "name": "Garden Gold",
+    "tags": [
+      "ruže",
+      "tulipani",
+      "orhideje",
+      "sukulenti",
+      "karanfili",
+      "buketi",
+      "aranžmani",
+      "pokloni",
+      "čokolade"
+    ],
+    "location": "Šeste Crnogorske, Nikšić",
+    "distance": 5000,
+    "time": 50,
+    "images": {
+      "logo": "bloomingbliss",
+      "poster": "bloomingbliss",
+      "cover": "roses"
+    },
+    "categories": ["Buketi", "Dekoracije", "Kućne biljke", "Rođendani"]
+  },
+  {
+    "id": "101",
+    "name": "Habitat",
+    "tags": ["ruže", "suncokreti", "ljiljani", "miješani buketi"],
+    "location": "21 Bulevar Džordža Vašingtona, Podgorica",
+    "distance": 1000,
+    "time": 15,
+    "images": {
+      "logo": "cvjetniraj",
+      "poster": "cvjetniraj",
+      "cover": "ruze"
+    },
+    "categories": ["Buketi", "Dekoracije", "Kućne biljke", "Vjenčanja"]
+  },
+  {
+    "id": "102",
+    "name": "Florina",
+    "tags": [
+      "bijele rade",
+      "lavanda",
+      "vjenčanje",
+      "centralni aranžmani",
+      "sobne biljke",
+      "sukulenti",
+      "saksijske biljke",
+      "baštenske biljke"
+    ],
+    "location": "Bulevar Oktobarske revolucije, Podgorica",
+    "distance": 6300,
+    "time": 35,
+    "images": {
+      "logo": "rajlatica",
+      "poster": "rajlatica",
+      "cover": "suncokreti"
+    },
+    "categories": ["Buketi", "Dekoracije", "Kućne biljke", "Saksije"]
+  },
+  {
+    "id": "103",
+    "name": "Hedera",
+    "tags": ["ruže", "miješano cveće", "karanfili", "baštenske biljke"],
+    "location": "129 Moskovska, Podgorica",
+    "distance": 1300,
+    "time": 21,
+    "images": {
+      "logo": "cvjecnefantazije",
+      "poster": "cvjecnefantazije",
+      "cover": "lavanda"
+    },
+    "categories": ["Buketi", "Dekoracije", "Kućne biljke", "Saksije"]
+  },
+  {
+    "id": "104",
+    "name": "Flora",
+    "tags": ["ruže", "bijele rade", "ljiljani", "orhideje"],
+    "location": "147 Bulevar Ivana Crnojevića, Podgorica",
+    "distance": 2600,
+    "time": 36,
+    "images": {
+      "logo": "lavandinastaza",
+      "poster": "lavandinastaza",
+      "cover": "mijesanocvijece"
+    },
+    "categories": [
+      "Buketi",
+      "Dekoracije",
+      "Kućne biljke",
+      "Saksije",
+      "Rođendani",
+      "Vjenčanja"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Laziva",
+    "tags": ["sukulenti", "sobne biljke", "cvjetne biljke"],
+    "location": "Master Quart, Podgorica",
+    "distance": 1600,
+    "time": 7,
+    "images": {
+      "logo": "cvecnitreasures",
+      "poster": "cvecnitreasures",
+      "cover": "ljiljani"
+    },
+    "categories": [
+      "Buketi",
+      "Dekoracije",
+      "Kućne biljke",
+      "Saksije",
+      "Rođendani",
+      "Vjenčanja"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "La Viola",
+    "tags": ["egzotično cvijeće", "orhideje", "aranžmani"],
+    "location": "21 Filipa Bajkovića, Podgorica",
+    "distance": 2200,
+    "time": 12,
+    "images": {
+      "logo": "cvetnaoaza",
+      "poster": "cvetnaoaza",
+      "cover": "sobnebiljke"
+    },
+    "categories": [
+      "Buketi",
+      "Dekoracije",
+      "Kućne biljke",
+      "Saksije",
+      "Rođendani",
+      "Vjenčanja"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Neven",
+    "tags": ["ruže", "miješani buketi", "godišnjice"],
+    "location": "City Kvart, Podgorica",
+    "distance": 2600,
+    "time": 16,
+    "images": {
+      "logo": "ruzeoaza",
+      "poster": "ruzeoaza",
+      "cover": "ruže"
+    },
+    "categories": [
+      "Buketi",
+      "Dekoracije",
+      "Kućne biljke",
+      "Saksije",
+      "Rođendani",
+      "Vjenčanja"
+    ]
+  }
+]
